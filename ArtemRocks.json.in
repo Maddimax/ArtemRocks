@@ -1,0 +1,12 @@
+{
+    "Name" : "ArtemRocks",
+    "Version" : "0.0.1",
+    "CompatVersion" : "0.0.1",
+    "Vendor" : "The Qt Company",
+    "Copyright" : "(C) The Qt Company",
+    "License" : "Put short license information here",
+    "Description" : "Put a short description of your plugin here",
+    "Url" : "https://www.qt.io",
+    "DocumentationUrl" : "",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
